@@ -1,0 +1,3 @@
+C:\Users\Mike\Desktop\kurs_cad\project_UG\x64\Debug\project_UG.dll
+C:\Users\Mike\Desktop\kurs_cad\project_UG1\x64\Debug\project_UG.dll
+C:\Users\Mike\Desktop\kurs_cad\newFormProject\x64\Debug\project_UG.dll

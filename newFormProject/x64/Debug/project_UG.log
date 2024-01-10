@@ -1,0 +1,23 @@
+﻿  form.cpp
+C:\Program Files\Siemens\NX 9.0\UGOPEN\NXOpen\NXException.hxx(26,53): warning C4275: class "std::exception", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "NXOpen::NXException"
+  (компиляция исходного файла "form.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\exception(38,19):
+   см. объявление "std::exception"
+  C:\Program Files\Siemens\NX 9.0\UGOPEN\NXOpen\NXException.hxx(26,27):
+   см. объявление "NXOpen::NXException"
+  
+C:\Users\Mike\Desktop\kurs_cad\newFormProject\form.cpp(65,22): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\Mike\Desktop\kurs_cad\newFormProject\form.cpp(263,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Desktop\kurs_cad\newFormProject\form.cpp(328,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mike\Desktop\kurs_cad\newFormProject\form.cpp(402,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  project_UG.cpp
+C:\Program Files\Siemens\NX 9.0\UGOPEN\NXOpen\NXException.hxx(26,53): warning C4275: class "std::exception", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "NXOpen::NXException"
+  (компиляция исходного файла "project_UG.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\exception(38,19):
+   см. объявление "std::exception"
+  C:\Program Files\Siemens\NX 9.0\UGOPEN\NXOpen\NXException.hxx(26,27):
+   см. объявление "NXOpen::NXException"
+  
+  Создание кода...
+     Создается библиотека C:\Users\Mike\Desktop\kurs_cad\newFormProject\x64\Debug\project_UG.lib и объект C:\Users\Mike\Desktop\kurs_cad\newFormProject\x64\Debug\project_UG.exp
+  project_UG.vcxproj -> C:\Users\Mike\Desktop\kurs_cad\newFormProject\x64\Debug\project_UG.dll

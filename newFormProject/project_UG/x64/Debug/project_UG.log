@@ -1,0 +1,14 @@
+﻿  form.cpp
+D:\nx2\UGOPEN\NXOpen\NXException.hxx(28,53): warning C4275: class "std::exception", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "NXOpen::NXException"
+  (компиляция исходного файла "form.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.39.33321\include\vcruntime_exception.h(48,7):
+   см. объявление "std::exception"
+  D:\nx2\UGOPEN\NXOpen\NXException.hxx(28,27):
+   см. объявление "NXOpen::NXException"
+  
+D:\NxApi\newFormProject\form.cpp(65,22): warning C4101: ex: неиспользованная локальная переменная
+D:\NxApi\newFormProject\form.cpp(263,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\NxApi\newFormProject\form.cpp(475,23): warning C4101: arc_id1: неиспользованная локальная переменная
+D:\NxApi\newFormProject\form.cpp(417,23): warning C4101: arc_id: неиспользованная локальная переменная
+D:\NxApi\newFormProject\form.cpp(581,18): warning C4996: 'NXOpen::BlockStyler::BlockDialog::Show': Deprecated in NX2206.0.0.  Use BlockStyler::BlockDialog::Launch instead
+  project_UG.vcxproj -> D:\NxApi\newFormProject\x64\Debug\project_UG.dll
