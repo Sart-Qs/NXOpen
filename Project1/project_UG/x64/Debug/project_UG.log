@@ -1,0 +1,4 @@
+﻿  project_UG.cpp
+D:\Project1\project_UG.cpp(149,9): warning C4101: arc_id1: неиспользованная локальная переменная
+D:\Project1\project_UG.cpp(91,9): warning C4101: arc_id: неиспользованная локальная переменная
+  project_UG.vcxproj -> D:\Project1\x64\Debug\project_UG.dll
